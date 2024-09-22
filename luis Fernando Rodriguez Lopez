@@ -1,0 +1,24 @@
+fun main() {
+    
+   var a = 5
+   var b = 3
+   var c = -12 
+    
+    println("1. a > 3 Esta esprecion da como resultado un: " +(a > 3 ))
+    println("2. a > b Esta esprecion da como resultado un: " +(a > b))
+    println("3. a < c Esta esprecion da como resultado un: " +(a < c))
+    println("4. c < b Esta esprecion da como resultado un: " +(c < b))
+    println("5. b!= a Esta esprecion da como resultado un: " +(b!= a))
+    println("6. a==8 Esta esprecion da como resultado un: "  +(a ==8))
+    println("7. b*c==18 Esta esprecion da como resultado un: " +(b*c==18))
+    println("8. a * b == -30 Esta esprecion da como resultado un: " +(a * b == -30))
+    println("9. c / b < a  Esta esprecion da como resultado un: " +(c / b < a ))
+    println("10. c / b == -11  Esta esprecion da como resultado un: " +(c / b == -11))
+    println("11. c / b == -4  Esta esprecion da como resultado un: " +(c / b == -4))
+    println("12. a + c + b == 5  Esta esprecion da como resultado un: " +(a + c + b == 5))
+    println("13. (a+b == 8) && (a-b == 2)  Esta esprecion da como resultado un: " +((a+b == 8) && (a-b == 2)))
+    println("14. (a+b == 8) || (a-b == 6)  Esta esprecion da como resultado un: " +((a+b == 8) || (a-b == 6)))
+    println("15. a > 3 && b > 4 && c < 3   Esta esprecion da como resultado un: " +(a > 3 && b > 4 && c < 3 ))
+    println("16. a > 3 && b >= 3 && c < -3  Esta esprecion da como resultado un: "+(a > 3 && b >= 3 && c < -3))
+    
+}
